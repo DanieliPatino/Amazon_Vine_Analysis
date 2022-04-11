@@ -6,20 +6,23 @@ The purpose of this analysis was to determine if there was any bias towards favo
 
 ![vine-nonvine_reviews](https://user-images.githubusercontent.com/92958939/162672772-18f158d1-baec-4ac8-bd62-db3dae5a2025.png)
 
-o	There were 1080 Vine reviews on the Electronics dataset.
-o	There were 4,9673 non-Vine reviews on the Electronics dataset.
+-	There were 1080 Vine reviews on the Electronics dataset.
+
+-	There were 4,9673 non-Vine reviews on the Electronics dataset.
 
 
 ![5star_vine-nonvine_reviews](https://user-images.githubusercontent.com/92958939/162672811-578ca968-f232-40a3-8b4c-3151f96c6f11.png)
 
-o	There were 454 five stars Vine reviews.
-o	There were 23,043 five stars non-Vine reviews.
+-	There were 454 five stars Vine reviews.
+
+-	There were 23,043 five stars non-Vine reviews.
 
 
 ![%_5star_vine-nonvine_reviews](https://user-images.githubusercontent.com/92958939/162672849-048bd388-2026-4629-a097-d80c1f93c13a.png)
 
-o	There were 42.04% of Vine reviews that were five stars.
-o	There were 46.39% of non-Vine reviews that were five starts.
+-	There were 42.04% of Vine reviews that were five stars.
+
+-	There were 46.39% of non-Vine reviews that were five starts.
 
 ![total_votes_df](https://user-images.githubusercontent.com/92958939/162672988-81f12486-f957-4560-93f9-882575e2b547.png)
 
